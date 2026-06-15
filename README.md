@@ -93,10 +93,6 @@ LSMD_CONT_LDREG_52113_202510.shp
 
 <img width="2260" height="1243" alt="image" src="https://github.com/user-attachments/assets/73a1fba6-3769-447b-96bf-963846f5392a" />
 
-* 주유소 마커 선택 시 표시되는 사이트 이미지
-
 <img width="1380" height="632" alt="image" src="https://github.com/user-attachments/assets/345c9a80-88d6-47a0-87d1-8917bdf336cf" />
-
-* 보고서 분석 결과 예시 (LLM 출력)
 
 ---
